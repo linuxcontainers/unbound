@@ -1,10 +1,8 @@
 # Unbound Container
 
-![Docker Pulls (tag)](https://hub.docker.com/r/linuxcontainers/unbound/?logo=docker&style=for-the-badge)
-![Docker Stars (tag)](https://hub.docker.com/r/linuxcontainers/unbound/?logo=docker&style=for-the-badge)
-![Docker Build (tag)](https://hub.docker.com/r/linuxcontainers/unbound/?logo=docker&style=for-the-badge)
-![Docker Build Status (tag)](https://hub.docker.com/r/linuxcontainers/unbound/?logo=docker&style=for-the-badge)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/linuxcontainers/unbound/latest?logo=docker&style=for-the-badge)
+[![Docker Automated build](https://img.shields.io/docker/automated/linuxcontainers/alpine.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/linuxcontainers/unbound/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/linuxcontainers/alpine.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/linuxcontainers/unbound/)
+[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/linuxcontainers/unbound?logo=docker&style=for-the-badge)](https://hub.docker.com/r/linuxcontainers/unbound)
 
 [UNBOUND](https://nlnetlabs.nl/projects/unbound/about/) server running on [Alpine Linux](https://hub.docker.com/_/alpine/).
 
