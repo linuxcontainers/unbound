@@ -12,7 +12,7 @@ RUN chown root:unbound /var/log/unbound.log
 RUN chmod 775 /etc/unbound
 RUN chown root:unbound /etc/unbound
 
-COPY ["./unbound.conf", "/etc/unbound/"]
+COPY ["unbound.conf", "/etc/unbound/"]
 
 EXPOSE 53/udp
 
